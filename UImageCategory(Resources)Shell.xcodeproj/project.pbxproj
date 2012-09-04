@@ -13,6 +13,18 @@
 		A4BFFC1015F5D17C00EA5B00 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC0E15F5D17C00EA5B00 /* InfoPlist.strings */; };
 		A4BFFC1215F5D17C00EA5B00 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A4BFFC1115F5D17C00EA5B00 /* main.m */; };
 		A4BFFC1615F5D17C00EA5B00 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A4BFFC1515F5D17C00EA5B00 /* AppDelegate.m */; };
+		A4BFFC2C15F5D41B00EA5B00 /* UImage+Resources.m in Sources */ = {isa = PBXBuildFile; fileRef = A4BFFC2B15F5D41B00EA5B00 /* UImage+Resources.m */; };
+		A4BFFC3715F5D53D00EA5B00 /* ico_contacts.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC2D15F5D53D00EA5B00 /* ico_contacts.png */; };
+		A4BFFC3815F5D53D00EA5B00 /* ico_contacts@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC2E15F5D53D00EA5B00 /* ico_contacts@2x.png */; };
+		A4BFFC3915F5D53D00EA5B00 /* ico_favorites.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC2F15F5D53D00EA5B00 /* ico_favorites.png */; };
+		A4BFFC3A15F5D53D00EA5B00 /* ico_favorites@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3015F5D53D00EA5B00 /* ico_favorites@2x.png */; };
+		A4BFFC3B15F5D53D00EA5B00 /* ico_home.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3115F5D53D00EA5B00 /* ico_home.png */; };
+		A4BFFC3C15F5D53D00EA5B00 /* ico_home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3215F5D53D00EA5B00 /* ico_home@2x.png */; };
+		A4BFFC3D15F5D53D00EA5B00 /* ico_inventory.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3315F5D53D00EA5B00 /* ico_inventory.png */; };
+		A4BFFC3E15F5D53D00EA5B00 /* ico_inventory@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3415F5D53D00EA5B00 /* ico_inventory@2x.png */; };
+		A4BFFC3F15F5D53D00EA5B00 /* ico_notes.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3515F5D53D00EA5B00 /* ico_notes.png */; };
+		A4BFFC4015F5D53D00EA5B00 /* ico_notes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4BFFC3615F5D53D00EA5B00 /* ico_notes@2x.png */; };
+		A4BFFC4315F5D5A700EA5B00 /* UIImage+ResoucesTemplate.m in Sources */ = {isa = PBXBuildFile; fileRef = A4BFFC4215F5D5A700EA5B00 /* UIImage+ResoucesTemplate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,20 @@
 		A4BFFC1315F5D17C00EA5B00 /* UImageCategory(Resources)Shell-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UImageCategory(Resources)Shell-Prefix.pch"; sourceTree = "<group>"; };
 		A4BFFC1415F5D17C00EA5B00 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A4BFFC1515F5D17C00EA5B00 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A4BFFC2A15F5D41B00EA5B00 /* UImage+Resources.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UImage+Resources.h"; sourceTree = "<group>"; };
+		A4BFFC2B15F5D41B00EA5B00 /* UImage+Resources.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UImage+Resources.m"; sourceTree = "<group>"; };
+		A4BFFC2D15F5D53D00EA5B00 /* ico_contacts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_contacts.png; sourceTree = "<group>"; };
+		A4BFFC2E15F5D53D00EA5B00 /* ico_contacts@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_contacts@2x.png"; sourceTree = "<group>"; };
+		A4BFFC2F15F5D53D00EA5B00 /* ico_favorites.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_favorites.png; sourceTree = "<group>"; };
+		A4BFFC3015F5D53D00EA5B00 /* ico_favorites@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_favorites@2x.png"; sourceTree = "<group>"; };
+		A4BFFC3115F5D53D00EA5B00 /* ico_home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_home.png; sourceTree = "<group>"; };
+		A4BFFC3215F5D53D00EA5B00 /* ico_home@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_home@2x.png"; sourceTree = "<group>"; };
+		A4BFFC3315F5D53D00EA5B00 /* ico_inventory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_inventory.png; sourceTree = "<group>"; };
+		A4BFFC3415F5D53D00EA5B00 /* ico_inventory@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_inventory@2x.png"; sourceTree = "<group>"; };
+		A4BFFC3515F5D53D00EA5B00 /* ico_notes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_notes.png; sourceTree = "<group>"; };
+		A4BFFC3615F5D53D00EA5B00 /* ico_notes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_notes@2x.png"; sourceTree = "<group>"; };
+		A4BFFC4115F5D5A700EA5B00 /* UIImage+ResoucesTemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ResoucesTemplate.h"; sourceTree = "<group>"; };
+		A4BFFC4215F5D5A700EA5B00 /* UIImage+ResoucesTemplate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ResoucesTemplate.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +71,8 @@
 		A4BFFBF615F5D17C00EA5B00 = {
 			isa = PBXGroup;
 			children = (
+				A4BFFC2515F5D2DB00EA5B00 /* Classes */,
+				A4BFFC2815F5D2DB00EA5B00 /* Resources */,
 				A4BFFC0B15F5D17C00EA5B00 /* UImageCategory(Resources)Shell */,
 				A4BFFC0415F5D17C00EA5B00 /* Frameworks */,
 				A4BFFC0215F5D17C00EA5B00 /* Products */,
@@ -90,6 +118,34 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		A4BFFC2515F5D2DB00EA5B00 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A4BFFC2A15F5D41B00EA5B00 /* UImage+Resources.h */,
+				A4BFFC2B15F5D41B00EA5B00 /* UImage+Resources.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		A4BFFC2815F5D2DB00EA5B00 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A4BFFC4115F5D5A700EA5B00 /* UIImage+ResoucesTemplate.h */,
+				A4BFFC4215F5D5A700EA5B00 /* UIImage+ResoucesTemplate.m */,
+				A4BFFC2D15F5D53D00EA5B00 /* ico_contacts.png */,
+				A4BFFC2E15F5D53D00EA5B00 /* ico_contacts@2x.png */,
+				A4BFFC2F15F5D53D00EA5B00 /* ico_favorites.png */,
+				A4BFFC3015F5D53D00EA5B00 /* ico_favorites@2x.png */,
+				A4BFFC3115F5D53D00EA5B00 /* ico_home.png */,
+				A4BFFC3215F5D53D00EA5B00 /* ico_home@2x.png */,
+				A4BFFC3315F5D53D00EA5B00 /* ico_inventory.png */,
+				A4BFFC3415F5D53D00EA5B00 /* ico_inventory@2x.png */,
+				A4BFFC3515F5D53D00EA5B00 /* ico_notes.png */,
+				A4BFFC3615F5D53D00EA5B00 /* ico_notes@2x.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -100,6 +156,7 @@
 				A4BFFBFD15F5D17C00EA5B00 /* Sources */,
 				A4BFFBFE15F5D17C00EA5B00 /* Frameworks */,
 				A4BFFBFF15F5D17C00EA5B00 /* Resources */,
+				A4BFFC2015F5D20900EA5B00 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -142,10 +199,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4BFFC1015F5D17C00EA5B00 /* InfoPlist.strings in Resources */,
+				A4BFFC3715F5D53D00EA5B00 /* ico_contacts.png in Resources */,
+				A4BFFC3815F5D53D00EA5B00 /* ico_contacts@2x.png in Resources */,
+				A4BFFC3915F5D53D00EA5B00 /* ico_favorites.png in Resources */,
+				A4BFFC3A15F5D53D00EA5B00 /* ico_favorites@2x.png in Resources */,
+				A4BFFC3B15F5D53D00EA5B00 /* ico_home.png in Resources */,
+				A4BFFC3C15F5D53D00EA5B00 /* ico_home@2x.png in Resources */,
+				A4BFFC3D15F5D53D00EA5B00 /* ico_inventory.png in Resources */,
+				A4BFFC3E15F5D53D00EA5B00 /* ico_inventory@2x.png in Resources */,
+				A4BFFC3F15F5D53D00EA5B00 /* ico_notes.png in Resources */,
+				A4BFFC4015F5D53D00EA5B00 /* ico_notes@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A4BFFC2015F5D20900EA5B00 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Resources/*.png",
+				"$(SRCROOT)/Classes/*.m",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "RESOURCES_FOLDER=`dirname \"$SCRIPT_INPUT_FILE_0\"`\nCLASSES_FOLDER=`dirname \"$SCRIPT_INPUT_FILE_1\"`\n\nSOURCE_NAME=\"UIImage+ResoucesTemplate\"\nSOURCE_NAME_EXT=\"UImage+Resources\"\n\ntmp=\"$TEMP_FILES_DIR/compile-images-$$.tmp\"\ncd \"$RESOURCES_FOLDER\"\nfor image in *.png; do\nxxd -i \"$image\" >> $tmp.1\ndone\n\nTEMPLATE_M=`sed -n '/{%LOAD_TEMPLATE_M%}/,/{%LOAD_TEMPLATE_M END%}/ p' \"$RESOURCES_FOLDER/$SOURCE_NAME.m\" | sed '1 d;$ d'`\n\nfor image in *.png; do\nif echo \"$image\" | grep -q \"@2x\"; then continue; fi\nORIGINAL_FILENAME=\"$image\"\nSANITISED_FILENAME=`echo \"$ORIGINAL_FILENAME\" | sed 's/[^a-zA-Z0-9]/_/g'`\nSANITISED_2X_FILENAME=`echo \"$SANITISED_FILENAME\" | sed 's/_png/_2x_png/'`\necho \"$TEMPLATE_M\" | sed \"s/ORIGINAL_FILENAME/$ORIGINAL_FILENAME/g;s/SANITISED_FILENAME/$SANITISED_FILENAME/g;s/SANITISED_2X_FILENAME/$SANITISED_2X_FILENAME/g\" >> $tmp.2\ndone\n\nsed \"/{%IMAGELOADERS_M START%}/ r $tmp.2\n1,/{%IMAGELOADERS_M START%}/!{/{%IMAGELOADERS_M END%}/,/{%IMAGELOADERS_M START%]/! d;}\" \"$RESOURCES_FOLDER/$SOURCE_NAME.m\" > \"$CLASSES_FOLDER/$SOURCE_NAME_EXT.m\"\n    \n    rm \"$tmp.1\" \"$tmp.2\"\n    \n    tmp=\"$TEMP_FILES_DIR/compile-images-$$.tmp\"\n    cd \"$RESOURCES_FOLDER\"\n    for image in *.png; do\n    xxd -i \"$image\" >> $tmp.1\n    done\n    \n    TEMPLATE_H=`sed -n '/{%LOAD_TEMPLATE_H%}/,/{%LOAD_TEMPLATE_H END%}/ p' \"$RESOURCES_FOLDER/$SOURCE_NAME.h\" | sed '1 d;$ d'`\n    \n    for image in *.png; do\n    if echo \"$image\" | grep -q \"@2x\"; then continue; fi\n    ORIGINAL_FILENAME=\"$image\"\n    SANITISED_FILENAME=`echo \"$ORIGINAL_FILENAME\" | sed 's/[^a-zA-Z0-9]/_/g'`\n    SANITISED_2X_FILENAME=`echo \"$SANITISED_FILENAME\" | sed 's/_png/_2x_png/'`\n    echo \"$TEMPLATE_H\" | sed \"s/ORIGINAL_FILENAME/$ORIGINAL_FILENAME/g;s/SANITISED_FILENAME/$SANITISED_FILENAME/g;s/SANITISED_2X_FILENAME/$SANITISED_2X_FILENAME/g\" >> $tmp.2\n    done\n    \n    sed \"/{%IMAGELOADERS_H START%}/ r $tmp.2\n    1,/{%IMAGELOADERS_H START%}/!{/{%IMAGELOADERS_H END%}/,/{%IMAGELOADERS_H START%]/! d;}\" \"$RESOURCES_FOLDER/$SOURCE_NAME.h\" > \"$CLASSES_FOLDER/$SOURCE_NAME_EXT.h\"\n        \n        rm \"$tmp.1\" \"$tmp.2\"";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		A4BFFBFD15F5D17C00EA5B00 /* Sources */ = {
@@ -154,6 +239,8 @@
 			files = (
 				A4BFFC1215F5D17C00EA5B00 /* main.m in Sources */,
 				A4BFFC1615F5D17C00EA5B00 /* AppDelegate.m in Sources */,
+				A4BFFC2C15F5D41B00EA5B00 /* UImage+Resources.m in Sources */,
+				A4BFFC4315F5D5A700EA5B00 /* UIImage+ResoucesTemplate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

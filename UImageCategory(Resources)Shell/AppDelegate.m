@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "UImage+Resources.h"
 
 @implementation AppDelegate
 
@@ -16,6 +17,7 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    UIImage *image = [UIImage ico_contacts_png_image];
     return YES;
 }
 
